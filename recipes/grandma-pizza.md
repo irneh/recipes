@@ -30,6 +30,7 @@
 - Wait 20m
 ### Then
 - Spread dough to edges
+- Cover with cloth/other
 - Rest 2-4h depending on room temp; should poof up ~2x 
 ### Then
 1. Top with grated cheese
