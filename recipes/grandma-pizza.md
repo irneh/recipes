@@ -6,7 +6,7 @@
 - Total: 4h
 ## Hardware
 - Oven
-- Mixer
+- Mixer w/dough hook
 - Pan ~13x9x2in
 ## Food
 - 11.25 oz all purpose flour
