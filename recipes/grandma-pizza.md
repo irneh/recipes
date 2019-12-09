@@ -27,9 +27,10 @@
 - Mix ~7m
 - Oil pan
 - Drop dough in pan
-- Rest 2-3h
+- Wait 20m
 ### Then
 - Spread dough to edges
+- Rest 2-4h depending on room temp; should poof up ~2x 
 ### Then
 1. Top with grated cheese
 1. Top with toppings
