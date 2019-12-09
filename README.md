@@ -1,1 +1,3 @@
-# recipes
+# Recipes
+
+Exploring minimalist formats...

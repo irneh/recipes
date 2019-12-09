@@ -1,5 +1,5 @@
 # Mom/Detroit Pizza
-![WFP](http://workforpizza.com/pizza.png)
+![WFP](./images/over-w-brocc.jpeg)
 ## Overview
 - Easy
 - Work: 1h
@@ -35,5 +35,4 @@
 ### Bake
 - 15-20m at 500 on lower shelf
 ## Photos
-![WFP](./images/over-w-brocc.jpeg)
 ![WFP](./images/pep-side.jpeg)
