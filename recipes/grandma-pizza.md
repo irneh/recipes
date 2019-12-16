@@ -21,7 +21,7 @@
 ![Flow](./images/flow.png)
 ## Steps
 ### First
-- Mix "First" ingredients 2m
+- Mix flour, water, sugar, yeast 2m
 - Rest 10m
 ### Then
 - Add salt
@@ -31,8 +31,7 @@
 - Wait 20m
 ### Then
 - Spread dough to edges
-- Cover with cloth/other
-- Rest 2-4h depending on room temp; should poof up ~2x 
+- Rest 2h+; should poof up ~2x 
 ### Then
 1. Top with grated cheese
 1. Top with toppings
