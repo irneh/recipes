@@ -1,5 +1,10 @@
 # Grandma pizza
 ![WFP](./images/over-w-brocc.jpeg)
+## Flow
+
+Read no further?
+
+![Flow](./images/flow.png)
 ## Overview
 - Easy
 - Work: 1h
@@ -17,8 +22,6 @@
 - 1 Tbsp olive oil
 - 1 cup mozzarella cheese
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
-## Flow
-![Flow](./images/flow.png)
 ## Steps
 ### First
 - Mix flour, water, sugar, yeast 2m
