@@ -9,16 +9,13 @@
 - Mixer w/dough hook
 - Pan ~13x9x2in
 ## Ingredients
-### First
 - 11.25 oz all purpose flour
 - 1.5 Tsp yeast
 - 1.5 Tsp sugar
 - 1 cup water room temp
-### Second
 - 1.5 Tsp salt
-### Last
-- 1 Tbsp EEVO
-- 1 cup mozzarella
+- 1 Tbsp olive oil
+- 1 cup mozzarella cheese
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
 ## Steps
 ### First
