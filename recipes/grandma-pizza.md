@@ -17,6 +17,8 @@
 - 1 Tbsp olive oil
 - 1 cup mozzarella cheese
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
+## Flow
+![Flow](./images/flow.png)
 ## Steps
 ### First
 - Mix "First" ingredients 2m
