@@ -46,4 +46,15 @@ Read no further?
 - Put cheese into/along pan edges
 - Rebake it in toaster oven next day for 10m+ at 350F for super-crispiness
 ## Photos
-![WFP](./images/pep-side.jpeg)
+
+Pepperoni
+
+![pepp](./images/pep-side.jpeg)
+
+Pre-stretch
+
+![pre-strech](./images/pre-stretch.jpeg)
+
+Post-stretch
+
+![post-strech](./images/post-stretch.jpeg)
