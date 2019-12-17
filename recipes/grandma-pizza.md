@@ -3,10 +3,10 @@
 ## Overview
 - Easy
 - Work: 1h
-- Total: 4h
+- Total: 3h
 ## Hardware
 - Oven
-- Mixer w/dough hook
+- Mixer with dough hook
 - Pan ~13x9x2in
 ## Ingredients
 - 11.25 oz all purpose flour
