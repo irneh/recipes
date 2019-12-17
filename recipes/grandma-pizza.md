@@ -1,10 +1,5 @@
 # Grandma pizza
 ![WFP](./images/over-w-brocc.jpeg)
-## Flow
-
-Read no further?
-
-![Flow](./images/flow.png)
 ## Overview
 - Easy
 - Work: 1h
@@ -22,25 +17,8 @@ Read no further?
 - 1 Tbsp olive oil
 - 1 cup mozzarella cheese
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
-## Steps
-### First
-- Mix flour, water, sugar, yeast 2m
-- Rest 10m
-### Then
-- Add salt
-- Mix ~7m
-- Oil pan
-- Drop dough in pan
-- Wait 20m
-### Then
-- Spread dough to edges
-- Rest 2h+; should poof up ~2x 
-### Then
-1. Top with grated cheese
-1. Top with toppings
-1. Drizzle sauce in lines like on a football field
-### Bake
-- 15-20m at 500F on lower shelf
+## Flow
+![Flow](./images/flow.png)
 ## Pro Notes
 - After first 2m of mixing dough will be rough; the latter ~7m will make it silky
 - Put cheese into/along pan edges
