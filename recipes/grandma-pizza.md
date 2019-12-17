@@ -19,10 +19,6 @@
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
 ## Flow
 ![Flow](./images/flow.png)
-## Pro Notes
-- After first 2m of mixing dough will be rough; the latter ~7m will make it silky
-- Put cheese into/along pan edges
-- Rebake it in toaster oven next day for 10m+ at 350F for super-crispiness
 ## Photos
 
 Pepperoni
@@ -36,3 +32,7 @@ Pre-stretch
 Post-stretch
 
 ![post-strech](./images/post-stretch.jpeg)
+## Pro Notes
+- After first 2m of mixing dough will be rough; the latter ~7m will make it silky
+- Put cheese into/along pan edges
+- Rebake it in toaster oven next day for 10m+ at 350F for super-crispiness
