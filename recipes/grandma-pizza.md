@@ -12,9 +12,9 @@
 - 11.25 oz all purpose flour
 - 1.5 Tsp yeast
 - 1.5 Tsp sugar
-- 1 cup water room temp
 - 1.5 Tsp salt
 - 1 Tbsp olive oil
+- 1 cup water room temp
 - 1 cup mozzarella cheese
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
 ## Flow
