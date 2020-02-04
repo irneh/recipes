@@ -36,6 +36,9 @@ Post-stretch
 ![](./images/side.jpeg)
 ![](./images/over.jpeg)
 ![](./images/edge.jpeg)
+
+Or add some cheese if you like.
+
 ![](./images/cheese.jpeg)
 
 ## Pro Notes
