@@ -17,8 +17,10 @@
 - 1 cup water room temp
 - 1 cup mozzarella cheese
 - Toppings might be pepperoni, onions, bell peppers, broccoli...
+
 ## Flow
 ![Flow](./images/flow.png)
+
 Pre-stretch
 
 ![pre-strech](./images/pre-stretch.jpeg)
@@ -29,7 +31,6 @@ Post-stretch
 
 ## Pix 
 
-![pepp](./images/pep-side.jpeg)
 ![](./images/two.jpeg)
 ![](./images/sizzle.jpeg)
 ![](./images/side.jpeg)
