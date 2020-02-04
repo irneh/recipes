@@ -46,4 +46,9 @@ Or add some cheese if you like.
 - Put cheese into/along pan edges
 - Rebake it in toaster oven next day for 10m+ at 350F for super-crispiness
 - Halve the ingredients and use a 9x9in pan
+- This may be more like "Detroit" pizza
+
+## Veg
+- Toss the brocc in oil to protect it from the heat
+- Lookup kale-pistachio pesto; lasts long in the fridge and insulates the brocc well, as opposed to just oil
 
