@@ -36,6 +36,7 @@ Post-stretch
 - After first 2m of mixing dough will be rough; the latter ~7m will make it silky
 - Put cheese into/along pan edges
 - Rebake it in toaster oven next day for 10m+ at 350F for super-crispiness
+- Halve the ingredients and use a 9x9in pan
 
 More pics
 
