@@ -1,4 +1,4 @@
-# Grandma pizza
+# Detroit pizza
 ![WFP](./images/over-w-brocc.jpeg)
 ## Overview
 - Easy
